@@ -1,6 +1,6 @@
 # Excel macros
-Excel macros to automate some tedious task at work.
+Excel macros to automate some tedious task at work. Written in Visual Basic.
 
-See licence file for licence details.
+All macros under MIT licence, see licence files for details.
 
 
